@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# build output
+dist/
+switch/build/
+switch/*.elf
+switch/*.nacp
+switch/*.nro
+switch/romfs/
+
+# compiled helpers
+mac/ptzctl
+mac/mtp_install
+
+# generated config
+switch/romfs/host.txt
