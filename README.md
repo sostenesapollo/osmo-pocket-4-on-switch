@@ -174,6 +174,8 @@ Things that cost real debugging time:
 - Switch homebrew: [devkitPro](https://devkitpro.org) and
   [libnx](https://github.com/switchbrew/libnx).
 
+Details in [CREDITS.md](CREDITS.md).
+
 ## Disclaimer
 
 Homebrew only. It talks to your own camera over your own network. Nothing here
